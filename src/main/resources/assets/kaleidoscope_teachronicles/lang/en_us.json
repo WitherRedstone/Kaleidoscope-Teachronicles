@@ -1,0 +1,26 @@
+{
+  "block.kaleidoscope_teachronicles.cold_stove": "Cold Stove",
+  "tooltip.kaleidoscope_teachronicles.cold_stove": "Kitchen teapot heat source, activated with flint and steel.",
+  "block.kaleidoscope_teachronicles.yunomi": "Yunomi",
+  "item.kaleidoscope_teachronicles.yunomi": "Yunomi",
+  "block.kaleidoscope_teachronicles.matcha": "Matcha",
+  "item.kaleidoscope_teachronicles.matcha": "Matcha",
+  "tooltip.kaleidoscope_teachronicles.matcha.maxim": "A finely ground green tea.\nGrants Haste when consumed.",
+  "item.kaleidoscope_teachronicles.matcha_powder": "Matcha Powder",
+  "itemGroup.kaleidoscope_teachronicles": "Kaleidoscope Tea Chronicles",
+  "jei.kaleidoscope_teachronicles.cold_brew_teapot.title": "Cold Brew Teapot",
+  "jei.kaleidoscope_teachronicles.cold_brew_teapot.time": "Time: %s s",
+  "jei.kaleidoscope_teachronicles.fermenting.title": "Fermentation",
+  "jei.kaleidoscope_teachronicles.fermenting.light": "Light: %s~%s",
+  "jei.kaleidoscope_teachronicles.fermenting.time": "Time: %s s",
+  "jei.kaleidoscope_teachronicles.scenting.title": "Scenting",
+  "jei.kaleidoscope_teachronicles.scenting.time": "Time: %s s",
+
+  "block.kaleidoscope_teachronicles.red_tea": "Red Tea",
+  "item.kaleidoscope_teachronicles.red_tea": "Red Tea",
+
+  "effect.kaleidoscope_teachronicles.refreshing": "Refreshing",
+  "effect.kaleidoscope_teachronicles.after_taste": "Aftertaste",
+  "effect.kaleidoscope_teachronicles.invigorating": "Invigorating",
+  "effect.kaleidoscope_teachronicles.lingering": "Lingering"
+}

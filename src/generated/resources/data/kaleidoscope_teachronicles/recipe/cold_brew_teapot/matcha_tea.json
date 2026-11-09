@@ -1,0 +1,15 @@
+{
+  "type": "kaleidoscope_teachronicles:cold_brew_teapot",
+  "container": {
+    "item": "kaleidoscope_teachronicles:yunomi"
+  },
+  "ingredient": {
+    "item": "kaleidoscope_teachronicles:matcha_powder"
+  },
+  "result": {
+    "count": 1,
+    "id": "kaleidoscope_teachronicles:matcha_tea"
+  },
+  "tea_fluid": "minecraft:water",
+  "time": 240
+}

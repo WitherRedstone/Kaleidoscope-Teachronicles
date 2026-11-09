@@ -1,0 +1,12 @@
+{
+  "type": "kaleidoscope_teachronicles:cold_toss",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_block"
+  }
+}

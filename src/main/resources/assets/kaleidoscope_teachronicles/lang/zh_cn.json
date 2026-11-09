@@ -1,0 +1,76 @@
+{
+  "itemGroup.kaleidoscope_teachronicles": "森罗物语：茶事",
+
+  "_comment.items": "厨具",
+  "block.kaleidoscope_teachronicles.cold_stove": "冷灶",
+  "item.kaleidoscope_teachronicles.yunomi": "汤吞",
+  "block.kaleidoscope_teachronicles.yunomi": "汤吞",
+  "item.kaleidoscope_teachronicles.cream_oil": "奶油壶",
+  "block.kaleidoscope_teachronicles.cream_oil": "奶油壶",
+
+  "_comment.items": "材料",
+  "item.kaleidoscope_teachronicles.matcha_powder": "抹茶粉",
+  "item.kaleidoscope_teachronicles.cream": "奶油",
+
+  "_comment.items": "食物(物品)",
+  "item.kaleidoscope_teachronicles.matcha_bb": "抹茶棒冰",
+  "item.kaleidoscope_teachronicles.matcha_parfait": "抹茶芭菲",
+  "item.kaleidoscope_teachronicles.matcha_cake_roll": "抹茶蛋糕卷",
+  "item.kaleidoscope_teachronicles.matcha_cake_slice": "抹茶蛋糕片",
+  "item.kaleidoscope_teachronicles.matcha_cake": "抹茶蛋糕",
+
+  "_comment.items": "食物(方块)",
+  "block.kaleidoscope_teachronicles.matcha_cake": "抹茶蛋糕",
+
+  "_comment.items": "茶叶",
+  "item.kaleidoscope_teachronicles.green_tea_leaves": "绿茶茶叶",
+
+  "_comment.items": "混合茶叶",
+
+  "_comment.items": "茶包",
+  "item.kaleidoscope_teachronicles.rose_tea_bag": "玫瑰花茶茶包",
+
+  "_comment.items": "茶(物品)",
+  "item.kaleidoscope_teachronicles.matcha_tea": "抹茶",
+  "item.kaleidoscope_teachronicles.rose_tea": "玫瑰花茶",
+
+  "_comment.blocks": "茶(方块)",
+  "block.kaleidoscope_teachronicles.matcha_tea": "抹茶",
+  "block.kaleidoscope_teachronicles.rose_tea": "玫瑰花茶",
+
+  "_comment.tooltip": "提示",
+  "tooltip.kaleidoscope_teachronicles.cream_oil.count": "奶油: %s / %s",
+  "tooltip.kaleidoscope_teachronicles.cream_oil.empty": "空奶油壶",
+  "tooltip.kaleidoscope_teachronicles.cold_stove": "厨房用具的热源，用打火石激活。",
+  "tooltip.kaleidoscope_teachronicles.matcha_tea.maxim": "茶，香叶，嫩芽。慕诗客，爱僧家。",
+  "tooltip.kaleidoscope_teachronicles.rose_tea.maxim": "花开花落无间断，春来春去不相关",
+
+  "_comment.effect": "效果",
+  "effect.kaleidoscope_teachronicles.refreshing": "清爽",
+  "effect.kaleidoscope_teachronicles.refreshing.desc": "提升移动速度与挖掘速度。",
+  "effect.kaleidoscope_teachronicles.after_taste": "回甘",
+  "effect.kaleidoscope_teachronicles.after_taste.desc": "降低饱食度消耗。",
+  "effect.kaleidoscope_teachronicles.invigorating": "提神",
+  "effect.kaleidoscope_teachronicles.invigorating.desc": "免疫部分负面效果。",
+  "effect.kaleidoscope_teachronicles.lingering": "余韵",
+  "effect.kaleidoscope_teachronicles.lingering.desc": "周期性回复饱食度和生命值。",
+
+  "_comment.jei": "JEI",
+  "jei.kaleidoscope_teachronicles.cold_brew_teapot.title": "冷萃茶壶",
+  "jei.kaleidoscope_teachronicles.cold_brew_teapot.time": "时间: %s 秒",
+  "jei.kaleidoscope_teachronicles.fermenting.title": "发酵",
+  "jei.kaleidoscope_teachronicles.fermenting.info": "光照: %s-%s | 时长: %s秒",
+  "jei.kaleidoscope_teachronicles.scenting.title": "窨制",
+  "jei.kaleidoscope_teachronicles.scenting.time": "时间: %s 秒",
+  "jei.kaleidoscope_teachronicles.cold_toss.title": "冷炒",
+  "jei.kaleidoscope_teachronicles.cold_toss.time": "翻炒 %d 次",
+  "jei.kaleidoscope_teachronicles.cold_stew.title": "冷炖",
+  "jei.kaleidoscope_teachronicles.cold_stew.time": "时间: %s 秒",
+
+  "_comment.emi": "EMI",
+  "emi.category.kaleidoscope_teachronicles.cold_brew_teapot": "冷萃茶壶",
+  "emi.category.kaleidoscope_teachronicles.fermenting": "发酵",
+  "emi.category.kaleidoscope_teachronicles.scenting": "窨制",
+  "emi.category.kaleidoscope_teachronicles.cold_toss": "冷炒",
+  "emi.category.kaleidoscope_teachronicles.cold_stew": "冷炖"
+}

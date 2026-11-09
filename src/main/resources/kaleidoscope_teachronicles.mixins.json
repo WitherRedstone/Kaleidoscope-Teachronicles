@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "com.chinaex123.kaleidoscope_teachronicles.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "TeapotBlockEntityMixin",
+    "BambooTrayBlockEntityMixin",
+    "PotBlockEntityMixin",
+    "OilPotBlockMixin",
+    "StockpotBlockEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
